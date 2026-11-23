@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6TTI_DPMael_Cercle", "6TTI_DPMael_Cercle.csproj", "{9E59A720-D9CC-49E2-8673-C1B0AF9E3842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E59A720-D9CC-49E2-8673-C1B0AF9E3842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E59A720-D9CC-49E2-8673-C1B0AF9E3842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E59A720-D9CC-49E2-8673-C1B0AF9E3842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E59A720-D9CC-49E2-8673-C1B0AF9E3842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

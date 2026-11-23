@@ -1,0 +1,14 @@
+/Users/mgams/Cours/6TTI_DPMael_Cercle/bin/Debug/net8.0/6TTI_DPMael_Cercle
+/Users/mgams/Cours/6TTI_DPMael_Cercle/bin/Debug/net8.0/6TTI_DPMael_Cercle.deps.json
+/Users/mgams/Cours/6TTI_DPMael_Cercle/bin/Debug/net8.0/6TTI_DPMael_Cercle.runtimeconfig.json
+/Users/mgams/Cours/6TTI_DPMael_Cercle/bin/Debug/net8.0/6TTI_DPMael_Cercle.dll
+/Users/mgams/Cours/6TTI_DPMael_Cercle/bin/Debug/net8.0/6TTI_DPMael_Cercle.pdb
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.AssemblyInfoInputs.cache
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.AssemblyInfo.cs
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.csproj.CoreCompileInputs.cache
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.dll
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/refint/6TTI_DPMael_Cercle.dll
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.pdb
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/6TTI_DPMael_Cercle.genruntimeconfig.cache
+/Users/mgams/Cours/6TTI_DPMael_Cercle/obj/Debug/net8.0/ref/6TTI_DPMael_Cercle.dll
